@@ -10,11 +10,11 @@
          "Fallen"
       ],   
    "repository": "https://github.com/TheDxCoderteam/FallenManagement",
-   "stack": "heroku-24",
+   "stack": "heroku-22",
    "addons": [
       {
          "options": {
-            "version": "24"
+            "version": "16"
          },
          "plan": "heroku-postgresql"
       }
