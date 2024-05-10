@@ -17,7 +17,7 @@ future==1.0.0
 geopy==2.4.1
 gpytranslate==1.5.1
 hachoir==3.3.0
-html2text==2024.8.26
+html2text==2024.2.26
 jikanpy==4.3.2
 lxml==4.9.4
 markdown2==2.4.13
@@ -32,7 +32,7 @@ pykeyboard==0.1.5
 pynewtonmath==1.0.1
 pyrate-limiter==3.1.0
 pyrogram==2.0.106
-python-telegram-bot==18.20
+python-telegram-bot==13.15
 regex==2024.4.16
 requests==2.31.0
 secureme==0.0.4
